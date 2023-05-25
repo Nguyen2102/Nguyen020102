@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.example.customfontstextviewexample.custom_textview.AlexBrushRegularTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        android:text="Nguyễn Minh Nguyên"/>
+
+    <com.example.customfontstextviewexample.custom_textview.AllerRgTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        android:text="Nguyễn Minh Nguyên"/>
+
+    <com.example.customfontstextviewexample.custom_textview.AmbleRegularTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        android:text="Nguyễn Minh Nguyên"/>
+
+    <com.example.customfontstextviewexample.custom_textview.CantarellObliqueTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        android:text="Nguyễn Minh Nguyên"/>
+
+    <com.example.customfontstextviewexample.custom_textview.ChunkFiveRegularTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        android:text="Nguyễn Minh Nguyên"/>
+
+    <com.example.customfontstextviewexample.custom_textview.FiraSansRegularTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        android:text="Nguyễn Minh Nguyên"/>
+
+    <com.example.customfontstextviewexample.custom_textview.KaushanScriptRegularTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        android:text="Nguyễn Minh Nguyên"/>
+
+    <com.example.customfontstextviewexample.custom_textview.NobileRegularTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        android:text="Nguyễn Minh Nguyên"/>
+
+    <com.example.customfontstextviewexample.custom_textview.OpenSansRegularTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        android:text="Nguyễn Minh Nguyên"/>
+
+    <com.example.customfontstextviewexample.custom_textview.PTS55FTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        android:text="Nguyễn Minh Nguyên"/>
+
+    <com.example.customfontstextviewexample.custom_textview.QuicksandRegularTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        android:text="Nguyễn Minh Nguyên"/>
+
+    <com.example.customfontstextviewexample.custom_textview.RubikRegularTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        android:text="Nguyễn Minh Nguyên"/>
+
+    <com.example.customfontstextviewexample.custom_textview.SinkinSans400RegularTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        android:text="Nguyễn Minh Nguyên"/>
+
+    <com.example.customfontstextviewexample.custom_textview.SourceCodeProRegularTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        android:text="Nguyễn Minh Nguyên"/>
+
+    <com.example.customfontstextviewexample.custom_textview.SourceSansProRegularTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        android:text="Nguyễn Minh Nguyên"/>
+
+</LinearLayout>
